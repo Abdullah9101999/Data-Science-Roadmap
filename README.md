@@ -1,5 +1,6 @@
 # Data-Science-Roadmap
-This is a repository for the people learning data science. It is consist of courses as the learning materials for Data science. After doing research and learning data science for quite a few months with the help of codebasics and many resources I have made this repository.  
+This is a repository is for the people who are learning data science. After doing some research and learning data science for quite a few months with the help of codebasics and many resources I have made this repository.
+
 ## Learn data science step by step in 12 months
 ----------------------------------------------
 
